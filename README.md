@@ -29,7 +29,7 @@ A dynamic Kanban board application built with React that allows users to visuali
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://kanban-one-rosy.vercel.app/)
+[View Live Demo](https://quicksell-gules.vercel.app/)
 
 ## 🛠️ Installation
 
